@@ -1,13 +1,19 @@
 # 📊 Exploratory Data Analysis (EDA) and Data Visualization
 
 Figure 1 
+
 <img width="742" height="503" alt="Screenshot 2026-06-13 101403" src="https://github.com/user-attachments/assets/f107430b-7947-4eb4-9818-ab1081be2528" />
 
-Figure 3
+Figure 2
+
 <img width="618" height="499" alt="Screenshot 2026-06-13 101445" src="https://github.com/user-attachments/assets/9318fe71-8d8a-480b-9fd6-c5bb670a64b6" />
 
-Figure 2 
+Figure 3
+
 <img width="731" height="504" alt="Screenshot 2026-06-13 101425" src="https://github.com/user-attachments/assets/1746961b-72ff-4f74-a064-10899fa258a9" />
+
+
+
 ## Introduction
 
 This project focuses on **Exploratory Data Analysis (EDA)** and data visualization using Python. The objective is to understand the dataset, identify patterns, analyze relationships between variables, and present insights through graphical representations.
